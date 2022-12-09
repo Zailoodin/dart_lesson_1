@@ -16,17 +16,25 @@ void main() {
   myText = myNumber.toString();
   print(myText);
 
+  //task №1
+
   int chocloate = 12;
   int coffe = 10;
   int milk = 15;
-  int sum = chocloate + coffe + milk;
+  int sumAll = chocloate + coffe + milk;
 
-  print(sum);
+  print(sumAll);
 
-  //2
+  //Task №2
   int c = Random().nextInt(30);
-  int d = c + 12;
+  int d = c + 3;
   int k = d + c;
 
   print('$c, $d, $k');
+
+  //task №3
+
+
+
+
 }
