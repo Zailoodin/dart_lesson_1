@@ -34,7 +34,9 @@ void main() {
 
   //task №3
 
-
-
-
+  int cups = 5;
+  int spoon = cups;
+  int bludo = cups;
+  var sumObject = cups + spoon + bludo;
+  print(sumObject);
 }
